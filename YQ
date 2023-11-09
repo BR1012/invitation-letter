@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>邀请函</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  body { font-family: 'Arial', sans-serif; margin: 0; padding: 20px; background-color: #f7f7f7; }
+  .container { background-color: #ffffff; padding: 20px; margin-top: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+  h1 { color: #333333; }
+  p { color: #666666; }
+  .button { background-color: #0084ff; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 4px; display: inline-block; }
+  .footer { margin-top: 20px; font-size: 0.8em; text-align: center; color: #999999; }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <h1>泰康在线艺术品保险邀请您</h1>
+  <p>尊敬的拓晓堂专家，</p >
+  <p>我们诚挚地邀请您参与中国嘉德2023秋季拍卖会预展现场的直播活动。通过您的专业介绍，为我们的客户提供艺术品收藏与投资建议。</p >
+  
+  <p><strong>活动详情：</strong></p >
+  <p>日期：[具体日期]</p >
+  <p>时间：[开始时间] - [结束时间]</p >
+  <p>地点：[活动地点]</p >
+  <p>直播平台：[直播平台名称]</p >
+  
+  <a href=" " class="button">确认出席</a >
+</div>
+
+<div class="footer">
+  <p>如果您有任何疑问，请通过以下方式与我们联系：</p >
+  <p>邮箱：[]</p >
+  <p>电话：[13581906193]</p >
+</div>
+
+</body>
+</html>
